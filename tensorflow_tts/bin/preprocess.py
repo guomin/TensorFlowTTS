@@ -22,7 +22,7 @@ import yaml
 
 import librosa
 import numpy as np
-import pyworld as pw
+import pyworld as pw # world vocoder
 
 from functools import partial
 from multiprocessing import Pool
